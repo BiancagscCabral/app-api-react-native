@@ -1,1 +1,1 @@
-# app-api-react-native
+# Atividade com ReactNative consumindo uma API pública
